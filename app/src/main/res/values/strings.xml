@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RCode</string>
+    <string name="app_nameG">RCode</string>
+    <string name="app_nameL">RCode</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_rcode_to_locate_on_map_or_to_navigate_to_location">Enter RCODE to locate on map or to navigate to location</string>
+</resources>
